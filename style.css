@@ -69,10 +69,10 @@
   
   h1 {
     color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     font-weight: 800;
     font-size: 4em;
-    letter-spacing: -2px;
+    letter-spacing: 0px;
     text-align: center;
     text-shadow: 1px 2px 1px rgba(0, 0, 0, .6);
   }
@@ -81,8 +81,8 @@
     display: block;
     color: #fff;
     letter-spacing: 1px;
-    font-family: 'Poiret One', sans-serif;
-    content: 'Subtitle goes here';
+    font-family: 'Noto Sans', sans-serif;
+    content: 'Term 0 ';
     font-size: .4em;
     text-align: center;
   }
