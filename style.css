@@ -86,28 +86,13 @@
     font-size: .4em;
     text-align: center;
   }
+.main{
   
-  .button-line {
-    font-family: 'Open Sans', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    background: transparent;
-    border: 1px solid #fff;
-    color: #fff;
-    text-align: center;
-    font-size: 1.4em;
-    opacity: .8;
-    padding: 20px 40px;
-    text-decoration: none;
-    transition: all .5s ease;
-    margin: 0 auto;
-    display: block;
-    width: 100px;
-  }
+      margin-top: -400px;
+}
+
   
-  .button-line:hover {
-    opacity: 1;
-  }
+ 
 
 .row {
   display: flex;
@@ -123,7 +108,9 @@
   flex-direction: column;
   flex-basis: 100%;
   flex: 1;
-  height:100px;
+  height:auto;
+  margin:20px;
+  
 }
 
 
