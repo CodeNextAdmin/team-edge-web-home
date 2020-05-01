@@ -67,7 +67,7 @@
     text-align: center;
   }
   
-  h1 {
+  h1{
     color: #fff;
     font-family: 'Noto Sans', sans-serif;
     font-weight: 800;
@@ -82,10 +82,16 @@
     color: #fff;
     letter-spacing: 1px;
     font-family: 'Noto Sans', sans-serif;
-    content: 'Term 0 ';
+    content: 'Term 0 Challenges';
     font-size: .4em;
     text-align: center;
   }
+
+h2{
+  color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+}
+
 .main{
   
       margin-top: -400px;
@@ -110,20 +116,24 @@
   flex: 1;
   height:auto;
   margin:20px;
+  border-style:solid;
+  border-width:1px;
+  border-color: #fff;
+  border-radius: 5px;
   
 }
 
 
 
 .wk3-column {
-  background-color: green;
+   
    
 }
 .wk4-column{
-  background-color: red;
+ 
    
 }
 .wk5-column{
-  background-color: blue;
+   
    
 }
