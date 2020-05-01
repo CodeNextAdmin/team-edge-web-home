@@ -102,8 +102,10 @@ p{
 
 .main{
   
-      margin-top: -300px;
+    margin-top: -300px;
+    width: 90%;
 }
+
 
   
  
@@ -129,6 +131,7 @@ p{
   border-color: #fff;
   border-radius: 5px;
   text-alignment: left;
+  padding: 20px;
   
 }
 
@@ -142,7 +145,7 @@ p{
 .lab-title{
   
       margin-bottom: -30px;
-}
+    
 
 
 
