@@ -62,9 +62,9 @@
     flex-direction: column;
     -webkit-align-items: center;
     align-items: center;
-    -webkit-justify-content: center;
+    -webkit-justify-content: left;
     justify-content: center;
-    text-align: center;
+    text-align: left;
   }
   
   h1{
@@ -90,6 +90,7 @@
 h2{
   color: #fff;
     font-family: 'Noto Sans', sans-serif;
+  text-align: center;
 }
 
 p{
@@ -127,6 +128,7 @@ p{
   border-width:1px;
   border-color: #fff;
   border-radius: 5px;
+  text-alignment: left;
   
 }
 
