@@ -108,3 +108,35 @@
   .button-line:hover {
     opacity: 1;
   }
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  height:100px;
+}
+
+
+
+.wk3-column {
+  background-color: green;
+   
+}
+.wk4-column{
+  background-color: red;
+   
+}
+.wk5-column{
+  background-color: blue;
+   
+}
