@@ -85,6 +85,7 @@
     content: 'Term 0 Demos and Challenges';
     font-size: .4em;
     text-align: center;
+    margin-bottom:-40px;
   }
 
 h2{
@@ -102,7 +103,7 @@ p{
 
 .main{
   
-    margin-top: -120px;
+    margin-top: 0px;
     width: 90%;
 }
 
