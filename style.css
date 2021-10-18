@@ -44,10 +44,10 @@
   }
   
   .full-screen {
-    position: fixed;
-    top: 0;
+    position: relative;
+    top: 210;
     right: 0;
-    bottom: 0;
+    bottom: 10;
     left: 0;
     background: url(https://i.imgur.com/wCG2csZ.png);
     background-size: cover;
