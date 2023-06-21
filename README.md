@@ -1,7 +1,7 @@
 Team Edge Challenges
 =================
 
-View (full site here)[https://codenext-te-home.stackblitz.io]
+View full site here: https://codenext-te-home.stackblitz.io
 
 Here is the list of challenges for weeks 3-5
 
