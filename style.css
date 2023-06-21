@@ -56,7 +56,7 @@
     height: 100%;
     display: -webkit-flex;
     display: flex;
-    -webkit-flex-direction: column
+    -webkit-flex-direction: column;
     /* works with row or column */
     
     flex-direction: column;
